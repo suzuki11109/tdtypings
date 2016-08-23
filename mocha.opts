@@ -1,0 +1,5 @@
+--compilers ts:ts-node/register
+--compilers tsx:ts-node/register
+--colors
+--watch-extensions tsx,ts
+*.test.ts
